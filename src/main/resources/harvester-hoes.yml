@@ -1,0 +1,20 @@
+harvester-hoes:
+  basic-harvester-hoe:
+    item: IRON_HOE
+    name: "&c&l[!] &7Iron Harvester Hoe &c&l[!]"
+    lore:
+      - "&7Automatically puts broken"
+      - "&7sugar cane directly into your"
+      - "&7inventory."
+      - "&eCrops Harvested: &6&l%AMOUNT%"
+      - ""
+      - "&6&lLevel: &b%LEVEL%"
+  premium-harvester-hoe:
+    item: DIAMOND_HOE
+    name: "&c&l[!] &bPremium Harvester Hoe &c&l[!]"
+    lore:
+      - "&a&LRight click &eto"
+      - "&eupgrade."
+      - ""
+      - "&eCrops Harvested: &6&l%AMOUNT%"
+      - "&6&lLevel: &b%LEVEL%"

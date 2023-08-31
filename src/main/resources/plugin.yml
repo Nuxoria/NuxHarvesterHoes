@@ -1,0 +1,10 @@
+name: NuxHarvesterHoes
+version: '${project.version}'
+main: me.dev.nux.nuxharvesterhoes.NuxHarvesterHoes
+api-version: 1.8
+authors: [ Nuxoria ]
+description: Custom harvester hoes plugin
+commands:
+  nuxharvesterhoes:
+    aliases:
+      - nhh

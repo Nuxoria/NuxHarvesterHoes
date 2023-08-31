@@ -1,0 +1,34 @@
+title: "%HOENAME%'s &aGUI"
+features:
+  double-drops:
+    item: ENDER_PEARL
+    name: "&e&lDouble Drops"
+    slot: 13
+    lore:
+      - "&eCurrent Level: &a&l%LEVEL%"
+      - "&eUpgrade Cost: &6&l%COST%"
+  xp-boost:
+    item: EXP_BOTTLE
+    name: "&b&lExperience Boost"
+    slot: 11
+    lore:
+      - "&eCurrent Level: &a&l%LEVEL%"
+      - "&eUpgrade Cost: &6&l%COST%"
+  auto-sell:
+    item: PAPER
+    name: "&6&lAutoSell"
+    slot: 15
+    lore:
+      - "&eCurrent Level: &a&l%LEVEL%"
+      - "&eUpgrade Cost: &6&l%COST%"
+  treasure-hunter:
+    item: SADDLE
+    name: "&2&lTreasure Hunter"
+    slot: 22
+    lore:
+      - "&eCurrent Level: &a&l%LEVEL%"
+      - "&eUpgrade Cost: &6&l%COST%"
+fill:
+  item: STAINED_GLASS_PANE
+  name: " "
+  id: 15

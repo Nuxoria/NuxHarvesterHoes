@@ -1,0 +1,18 @@
+error-messages:
+  wrong-usage:
+    - "&a---------- &e&lNuxHarvesterHoes &a----------"
+    - "&6/nhh give <player> <hoetype>"
+    - "&6/nhh xp"
+    - "&6/nhh levelpoints"
+    - "&6/nhh reload"
+    - "&6/nhh reload <filename>"
+    - "&a---------- &e&lNuxHarvesterHoes &a----------"
+  not-enough-points: "&c&lYou don't have enough level points to purchase this upgrade."
+success-messages:
+  give-success: "&e[&6&lNHH&e] &aSuccessfully gave &c%PLAYER% &a%HOETYPE% Harvester Hoe!"
+  receive-success: "&aYou have received a &e%HOETYPE% Harvester Hoe&a!"
+  level-up-success: "&6&l[NHH] &eHarvester Hoe upgraded to &aLEVEL %LEVEL%"
+  sold-sugar-cane: "&6&l[NHH] &aSold &e%BLOCKSBROKENAMOUNT% sugar cane for &a%CASH%$."
+other:
+  level-points-message: "&aYou have &e&l&n%POINTS%&a level points."
+  xp-message: "&aYou have &e&l&n%XP%&a experience points."
